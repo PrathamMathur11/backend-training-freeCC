@@ -10,7 +10,8 @@
     "back-end",
     "training",
     "node",
-    "express"
+    "express",
+    "freecodecamp"
   ],
   "main": "server.js",
   "scripts": {
