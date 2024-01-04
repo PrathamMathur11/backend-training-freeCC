@@ -14,9 +14,9 @@
     "express",
     "freecodecamp"
   ],
-  "main": "server.js",
+  "main": "myapp.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node myapp.js"
   },
   "repository": {
     "type": "git",
